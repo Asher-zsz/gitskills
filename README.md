@@ -1,3 +1,5 @@
 # gitskills
 
-Trying to creat a new branch.
+Trying to creat a new branch. 
+
+Hope I can learn this fast.
